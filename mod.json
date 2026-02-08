@@ -1,0 +1,17 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "tmonitor745.savesync",
+	"name": "SaveSync",
+	"version": "v0.0.01",
+	"developer": "Tmonitor745",
+	"description": "Hopefully will allow you to sync save files across multiple devices",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
